@@ -119,9 +119,9 @@ while True:
 		# We'll use the text files from Additional Resources
 		# on myUnisa as our corpora 
 		# (both have been truncated to exactly 1000 words)
-		with open('test1000.txt') as f:
+		with open('.\\test1000.txt') as f:
 			corpus1 = f.read()
-		with open('training1000.txt') as f:
+		with open('.\\training1000.txt') as f:
 			corpus2 = f.read()
 
 		# Let's start with Unigrams first
