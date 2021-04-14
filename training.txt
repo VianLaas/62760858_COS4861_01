@@ -1,0 +1,152 @@
+From wmp@gaia.esd.ornl.gov Fri Aug 25 09:41:08 2000
+Date: Fri, 25 Aug 2000 09:22:55 -0400 (EDT)
+From: W. M. Post <wmp@gaia.esd.ornl.gov>
+To: Gail Chmura <chmura@felix.geog.mcgill.ca>
+Subject: Re: soil carbon error
+
+Dear Gail Chmura:
+
+Thank you for your interest in my paper.  You are correct - this is really
+a pasture, not the first stages of a woodland.  I classified the plots
+based on Holdridge life-zones and this one is cool temperate wet forest
+based on climate and so it inadvertantly got left on the wrong table. I
+waivered about putting this one in because of the initial conditions (same
+from the mine soil bank plots) and was suprised to see how much C
+accumulated.
+
+There is another mistake in this table as well so if you are going through
+the table you may be perplexed by this as well.  I attach below a reply to
+another keen observer of our calculations.  I guess I need to construct an
+errata page.
+
+I would be interested in hearing more about the manuscript you are
+preparing.
+
+Mac Post
+--------------
+Environmental Sciences Division             865-576-3431
+Oak Ridge National Laboratory               865-574-2232 (fax)
+P.O. Box 2008, Bldg. 1509                   http://www.esd.ornl.gov/~wmp
+Oak Ridge, TN 37831-6335                    wmp@ornl.gov
+
+(Replace P.O. Box 2008 with "Bethel Valley Road" for express mail)
+
+On Thu, 24 Aug 2000, Gail Chmura wrote:
+
+> Dear Dr. Post,
+> I have been using estimates from your recent paper in Global 
+> Change Biology  "Soil carbon sequestration and land-use change: 
+> processes and potential" in a paper which I am preparing.  I very 
+> much appreciate this summary and analysis.
+> 
+> However, in going over some of you table entries I noticed a 
+> mistake in table 1 - rates of soil C accumulating during forest 
+> establishment after agricultural use.  There is an entry "constructed 
+> dike to forest, reference source Beke 1990".  I have this paper 
+> before me and note that the dike was composed of sediments from 
+> tidal flats - and as a dike was an engineering structure rather than 
+> an agricultural land.  On page 684 of his article Beke states "The 
+> vegetation on the dike consisted of pasture grasses and forbs."  He 
+> does report an increase of carbon in this small bit of soil, but it is a 
+> transition from low to sub-tidal sediments to pasture - not pasture 
+> to forest.  Thus, this more appropriately belongs in table 2 of your 
+> article - and the calculations derived from that.
+> 
+> It may not change any of your calculations - but the cite did throw 
+> me off, as I was keen to get such data on the Fundy dikelands and 
+> dissappointed when I realized what the real focus of the study was.
+> 
+> Cheers,
+> Gail Chmura
+> 
+> 
+> Gail Chmura
+> Associate Professor
+> Department of Geography       phone (514)398-4958
+> McGill University               FAX (514)398-7437
+> 805 Sherbrooke St., W        chmura@geog.mcgill.ca
+> Montreal, QC  H3A 2K6
+> 
+
+>From wmp@gaia.esd.ornl.gov Fri Aug 25 09:05:02 2000
+Date: Tue, 9 May 2000 09:38:08 -0400 (EDT)
+From: W. M. Post <wmp@gaia.esd.ornl.gov>
+To: "Paul, Keryn (FFP, Yarralumla)" <Keryn.Paul@ffp.csiro.au>
+Subject: Re: Global change Biology paper
+
+Keryn
+
+Sorry - this is embarrasing.  Something got shifted in my table somewhere
+along the long trajectory of the manuscript.  The 310 value should be for
+a 10 year old pine plantation (CF2) with 9.3 kgC/m2.  For the starting
+point I averaged CA2 and CA3 for a value of 6.2 kgC/m2.
+
+The 51 year old Mahogany (LF6 - 11.4 kgC/m2) should have been 102 gC/m2/y
+[1000(11.4-6.2/51)].  This seems to be missing from my table.  The
+difference between this and yours is that I decided to average CA2 and CA3
+for the initial condition here as well.  I averaged things
+together in this paper in an attempt to cut down on the effect of various
+sources of variation involved in soil carbon measurements.  We will also
+differ in just transcribing bar charts into numerical values.
+
+Thanks for your interest in our paper.  I do have a couple of more recent
+papers.  I'll send the cites along shortly.
+
+Mac Post
+--------------
+Environmental Sciences Division             865-576-3431
+Oak Ridge National Laboratory               865-574-2232 (fax)
+P.O. Box 2008, Bldg. 1509                   http://www.esd.ornl.gov/~wmp
+Oak Ridge, TN 37831-6335                    wmp@ornl.gov
+
+(Replace P.O. Box 2008 with "Bethel Valley Road" for express mail)
+
+On Tue, 9 May 2000, Paul, Keryn (FFP, Yarralumla) wrote:
+
+> Dear W. M. Post,
+> 
+> CSIRO Forestry and Forest Products has been commissioned by the Australian
+> Greenhouse Office to review the effects of afforestation on change in soil
+> carbon.  The information is necessary for Australia to predict at the
+> national level change in carbon stocks under plantation development during
+> the commitment period of the Kyoto protocol (2008-2012). The area of new
+> plantations is expanding rapidly in Australia  - 90,000 ha was planted in
+> 1999 and by 2020 it is hoped that Australia will have about 2 mill ha of new
+> plantations. It is expected these plantations will have a significant impact
+> on national carbon budgets but measuring and predicting change in soil
+> carbon under plantation establishment remains an area of some uncertainty.
+> 
+> I have read Post and Kwon (2000) in Global Change Biology. This is a
+> fabulous review of soil C sequestration under different land-uses. However,
+> I am pulling my hair out trying to work out why my calculations taken from
+> Brown and Lugo (1990) differ from those in Table 1, Post and Kwon (2000).
+> Taking  the subtropical wet forest, 10yr old crop fields to mahogany
+> plantation, as an example (Table 1, Post and Kwon 2000), I calculated the
+> change in C content (i.e. difference between CA2 and LF6) to 50 cm depth as
+> 4.5 kg C/m2 (Fig 4a, Brown and Lugo 1990). I then multiplied this by 1000
+> (to get g C/m2) and divided by the age of the forest (51 years, Table 1,
+> Brown and Lugo 1990) to come up with a rate of C change of 88 g C/m2/y. But
+> you have 310 g C/m2/y. Do you know what I am doing wrong?
+> 
+> Also, have you come across any other studies which have shown rates of soil
+> C change under afforestation since Post and Kwon (2000) was published?
+> 
+> Hope you can help,
+> 
+> Keryn
+> 
+> 
+> __________________________________________________
+> 
+> Dr Keryn Paul                  
+> CSIRO Forestry and Forest Products       
+> PO Box E4008  Kingston  ACT 2604  Australia            
+> ph. +61_2_6281 8269; fax +61_2_6281 8312     
+> Keryn.Paul@ffp.csiro.au  
+> http://www.ffp.csiro.au    
+> __________________________________________________
+> 
+> 
+
+
+

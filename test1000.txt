@@ -1,0 +1,163 @@
+
+DRAFT
+ENVIRONMENTAL ASSESSMENT
+
+
+for 
+
+
+CONSTRUCTION OF
+FEDERAL EMERGENCY MANAGEMENT AGENCY (FEMA)
+TEMPORARY EMERGENCY HOUSING IN 
+ROSEAU, MINNESOTA 
+FEMA-1419-DR-MN
+
+
+
+
+
+Prepared for:
+
+Federal Emergency Management Agency
+Region X
+Bothell, Washington
+
+
+
+
+Prepared by:
+
+U.S. Army Corps of Engineers
+St. Paul District
+St. Paul, Minnesota
+
+
+
+
+August 2002
+
+DRAFT
+ENVIRONMENTAL ASSESSMENT
+
+for 
+
+CONSTRUCTION OF
+ FEDERAL EMERGENCY MANAGEMENT AGENCY (FEMA)
+ TEMPORARY EMERGENCY HOUSING IN
+ ROSEAU, MINNESOTA
+
+
+TABLE OF CONTENTS
+
+											         Page
+
+1.0  INTRODUCTION									1
+1.1 Project Authority								  	1
+1.2 Project Location									1
+
+2.0  PROJECT PURPOSE									1
+      2.1 Purpose and Need for the Proposed Action			1
+
+3.0  ALTERNATIVES CONSIDERED							2
+      3.1 No Action										2
+      3.2 The Proposed Action								2
+	3.3 Sites Considered and Dismissed From Further Consideration			3
+
+4.0  DESCRIPTION OF EXISTING RESOURCES AND PROJECT IMPACTS		3
+      4.1 Climate/Geology/Soils								3
+      4.2 Water Resources									4
+            4.2.1 Surface Water								4
+            4.2.2 Groundwater								4
+            4.2.3 Waters of the United States						5
+            4.2.4 Floodplains								5
+      4.3 Air Quality									5
+      4.4 Noise										6
+      4.5 Natural Resources									6
+            4.5.1 Vegetation								6
+            4.5.2 Fish and Wildlife							7			4.5.3 State and Federally Listed Threatened, Endangered or
+                     Proposed Species and Critical Habitats					7
+      4.6 Cultural Resources								7
+      4.7 Socioeconomics/Aesthetics							8	4.8 Environmental Justice								10
+      4.9 Safety And Security								10
+      4.10 Hazardous Materials and Waste							10
+
+TABLE OF CONTENTS (cont)
+
+											         Page
+
+5.0  CUMULATIVE EFFECTS								11
+
+6.0  PUBLIC PARTICIPATION								11
+
+7.0  AGENCIES CONSULTED								11
+
+8.0  CONCLUSION										11
+
+
+LIST OF FIGURES
+
+NO.		TITLE							
+
+1 Location Map
+2 Alternative Site Location/Staging Area
+3 Project Map			 
+
+
+
+APPENDICES
+
+APPENDIX A – AGENCY CORRESPONDENCE
+
+1 Record of Telephone Conversation with the Minnesota Department of Natural Resources, July 29, 2002
+2 Email from the U.S. Fish and Wildlife Service, July 19, 2002
+3 Letter to the Minnesota State Historic Preservation Office, July 26, 2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+DRAFT
+ENVIRONMENTAL ASSESSMENT
+
+for 
+
+CONSTRUCTION OF
+FEDERAL EMERGENCY MANAGEMENT AGENCY (FEMA)
+TEMPORARY EMERGENCY HOUSING IN
+ROSEAU, MINNESOTA
+
+
+
+1.0 INTRODUCTION
+
+1.1 PROJECT AUTHORITY
+In accordance with 44 Code of Federal Regulations (CFR) for the Federal Emergency Management Agency (FEMA), Subpart B - Agency Implementing Procedures, Section 10.9, an environmental assessment (EA) was prepared pursuant to Section 102 of the National Environmental Policy Act of 1969 (NEPA) as implemented by the regulations promulgated by the President’s Council on Environmental Quality (40 CFR Parts 1500-1508).  The purpose of the EA is to analyze the potential environmental impacts of the construction of FEMA temporary emergency housing in and around Roseau, Minnesota, and to determine whether to prepare an Environmental Impact Statement (EIS) or a Finding of No Significant Impact (FONSI).
+
+1.2 PROJECT LOCATION 
+Roseau, Minnesota, is located in north central Minnesota, approximately 220 miles northwest of Duluth, Minnesota and 10 miles from the Canadian border (Figure 1).  The area is located in the border area between the flat prairie region of northwestern Minnesota and the boreal forest region of north central Minnesota.  
+
+2.0 PROJECT PURPOSE
+
+2.1 PURPOSE AND NEED FOR THE PROPOSED ACTION
+During storm events of June 8 and 9, 2002, up to 14 inches of rain fell on the community of Roseau and surrounding areas.  By midday on June 9, the Roseau River, which runs through the community, was 2.5 feet above flood stage.  During the evening of the 9th, sandbagging activity was initiated in the community.  During the afternoon of the 10th, a dike running along the Roseau River broke, and water entered much of the downtown and adjacent residential areas of Roseau.  On the evening of the 12th, the river crested 7.5 feet above flood stage.  The river began receding on the night of the 13th, and most of the city was accessible again by June 15th.  At the request of the Governor of Minnesota, the President issued an emergency declaration for Roseau County on June 14, 2002 (FEMA 1419-DR-MN).  
+
+Initial surveys estimated that approximately 150 (over 80 percent) of the commercial and public buildings had direct
+flood damage and were closed for over 10 days.  More than 800 of the approximately 995 residential structures received
+direct flood damage to their basement and/or first floor living areas.  Since the emergency declaration, FEMA placed 152
+camper trailers@residences that did not permit human habitation because of flood damage.  The latest survey information indicates that up to 60 family units will need temporary housing assistance during the coming winter because their permanent residences will not be ready for occupancy, and the camper trailers are not adequate for the extreme winter weather of northern Minnesota.  The purpose of this action is to provide temporary housing assistance under the authority of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, as amended
+
+3.0 ALTERNATIVES CONSIDERED
+
+3.1 NO ACTION
+Implementation of the no action alternative would entail no construction or preparation of sites for temporary emergency housing of flood victims.  Because of the extreme cold weather that occurs in the winter, residents would not be able to remain in the uninsulated camper trailers.  Residents who could not return to their homes would have to find other accommodations such as with friends or family members or in hotels or apartments available in Roseau or nearby areas.  Initial community surveys have found that there are very few undamaged, available rental units.  Since this alternative did not solve the existing problem, it was not selected.
+
+3.2 THE PROPOSED ACTION
+The proposed action is to construct temporary emergency housing for people displaced by the flood event who cannot return to permanent housing before the onset of winter. The preferred location is a 40-acre site located on the south side of the community along State Highway 89 (Figure 2). The site could accommodate up to 100 mobile homes. The site currently is used as cropland. The city rezoned the entire parcel in late June 2002 as residential and commercial. The owner had intended to develop approximately 40 residential lots on the site. Up to 68 temporary emergency houses will be located on the eastern two-thirds of the acreage which is zoned residential. The western one-third of the site would be left in its current condition but would provide up to 30 additional temporary emergency home sites if they were needed. The layout 

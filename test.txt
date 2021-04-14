@@ -1,0 +1,454 @@
+
+DRAFT
+ENVIRONMENTAL ASSESSMENT
+
+
+for 
+
+
+CONSTRUCTION OF
+FEDERAL EMERGENCY MANAGEMENT AGENCY (FEMA)
+TEMPORARY EMERGENCY HOUSING IN 
+ROSEAU, MINNESOTA 
+FEMA-1419-DR-MN
+
+
+
+
+
+Prepared for:
+
+Federal Emergency Management Agency
+Region X
+Bothell, Washington
+
+
+
+
+Prepared by:
+
+U.S. Army Corps of Engineers
+St. Paul District
+St. Paul, Minnesota
+
+
+
+
+August 2002
+
+DRAFT
+ENVIRONMENTAL ASSESSMENT
+
+for 
+
+CONSTRUCTION OF
+ FEDERAL EMERGENCY MANAGEMENT AGENCY (FEMA)
+ TEMPORARY EMERGENCY HOUSING IN
+ ROSEAU, MINNESOTA
+
+
+TABLE OF CONTENTS
+
+											         Page
+
+1.0  INTRODUCTION									1
+1.1 Project Authority								  	1
+1.2 Project Location									1
+
+2.0  PROJECT PURPOSE									1
+      2.1 Purpose and Need for the Proposed Action			1
+
+3.0  ALTERNATIVES CONSIDERED							2
+      3.1 No Action										2
+      3.2 The Proposed Action								2
+	3.3 Sites Considered and Dismissed From Further Consideration			3
+
+4.0  DESCRIPTION OF EXISTING RESOURCES AND PROJECT IMPACTS		3
+      4.1 Climate/Geology/Soils								3
+      4.2 Water Resources									4
+            4.2.1 Surface Water								4
+            4.2.2 Groundwater								4
+            4.2.3 Waters of the United States						5
+            4.2.4 Floodplains								5
+      4.3 Air Quality									5
+      4.4 Noise										6
+      4.5 Natural Resources									6
+            4.5.1 Vegetation								6
+            4.5.2 Fish and Wildlife							7			4.5.3 State and Federally Listed Threatened, Endangered or
+                     Proposed Species and Critical Habitats					7
+      4.6 Cultural Resources								7
+      4.7 Socioeconomics/Aesthetics							8	4.8 Environmental Justice								10
+      4.9 Safety And Security								10
+      4.10 Hazardous Materials and Waste							10
+
+TABLE OF CONTENTS (cont)
+
+											         Page
+
+5.0  CUMULATIVE EFFECTS								11
+
+6.0  PUBLIC PARTICIPATION								11
+
+7.0  AGENCIES CONSULTED								11
+
+8.0  CONCLUSION										11
+
+
+LIST OF FIGURES
+
+NO.		TITLE							
+
+1 Location Map
+2 Alternative Site Location/Staging Area
+3 Project Map			 
+
+
+
+APPENDICES
+
+APPENDIX A – AGENCY CORRESPONDENCE
+
+1 Record of Telephone Conversation with the Minnesota Department of Natural Resources, July 29, 2002
+2 Email from the U.S. Fish and Wildlife Service, July 19, 2002
+3 Letter to the Minnesota State Historic Preservation Office, July 26, 2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+DRAFT
+ENVIRONMENTAL ASSESSMENT
+
+for 
+
+CONSTRUCTION OF
+FEDERAL EMERGENCY MANAGEMENT AGENCY (FEMA)
+TEMPORARY EMERGENCY HOUSING IN
+ROSEAU, MINNESOTA
+
+
+
+1.0 INTRODUCTION
+
+1.1 PROJECT AUTHORITY
+In accordance with 44 Code of Federal Regulations (CFR) for the Federal Emergency Management Agency (FEMA), Subpart B - Agency Implementing Procedures, Section 10.9, an environmental assessment (EA) was prepared pursuant to Section 102 of the National Environmental Policy Act of 1969 (NEPA) as implemented by the regulations promulgated by the President’s Council on Environmental Quality (40 CFR Parts 1500-1508).  The purpose of the EA is to analyze the potential environmental impacts of the construction of FEMA temporary emergency housing in and around Roseau, Minnesota, and to determine whether to prepare an Environmental Impact Statement (EIS) or a Finding of No Significant Impact (FONSI).
+
+1.2 PROJECT LOCATION 
+Roseau, Minnesota, is located in north central Minnesota, approximately 220 miles northwest of Duluth, Minnesota and 10 miles from the Canadian border (Figure 1).  The area is located in the border area between the flat prairie region of northwestern Minnesota and the boreal forest region of north central Minnesota.  
+
+2.0 PROJECT PURPOSE
+
+2.1 PURPOSE AND NEED FOR THE PROPOSED ACTION
+During storm events of June 8 and 9, 2002, up to 14 inches of rain fell on the community of Roseau and surrounding areas.  By midday on June 9, the Roseau River, which runs through the community, was 2.5 feet above flood stage.  During the evening of the 9th, sandbagging activity was initiated in the community.  During the afternoon of the 10th, a dike running along the Roseau River broke, and water entered much of the downtown and adjacent residential areas of Roseau.  On the evening of the 12th, the river crested 7.5 feet above flood stage.  The river began receding on the night of the 13th, and most of the city was accessible again by June 15th.  At the request of the Governor of Minnesota, the President issued an emergency declaration for Roseau County on June 14, 2002 (FEMA 1419-DR-MN).  
+
+Initial surveys estimated that approximately 150 (over 80 percent) of the commercial and public buildings had direct
+flood damage and were closed for over 10 days.  More than 800 of the approximately 995 residential structures received
+direct flood damage to their basement and/or first floor living areas.  Since the emergency declaration, FEMA placed 152
+camper trailers@residences that did not permit human habitation because of flood damage.  The latest survey information indicates that up to 60 family units will need temporary housing assistance during the coming winter because their permanent residences will not be ready for occupancy, and the camper trailers are not adequate for the extreme winter weather of northern Minnesota.  The purpose of this action is to provide temporary housing assistance under the authority of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, as amended
+
+3.0 ALTERNATIVES CONSIDERED
+
+3.1 NO ACTION
+Implementation of the no action alternative would entail no construction or preparation of sites for temporary emergency housing of flood victims.  Because of the extreme cold weather that occurs in the winter, residents would not be able to remain in the uninsulated camper trailers.  Residents who could not return to their homes would have to find other accommodations such as with friends or family members or in hotels or apartments available in Roseau or nearby areas.  Initial community surveys have found that there are very few undamaged, available rental units.  Since this alternative did not solve the existing problem, it was not selected.
+
+3.2 THE PROPOSED ACTION
+The proposed action is to construct temporary emergency housing for people displaced by the flood event who cannot return to permanent housing before the onset of winter.  The preferred location is a 40-acre site located on the south side of the community along State Highway 89 (Figure 2).  The site could accommodate up to 100 mobile homes.  The site currently is used as cropland.  The city rezoned the entire parcel in late June 2002 as residential and commercial.  The owner had intended to develop approximately 40 residential lots on the site.  Up to 68 temporary emergency houses will be located on the eastern two-thirds of the acreage which is zoned residential.  The western one-third of the site would be left in its current condition but would provide up to 30 additional temporary emergency home sites if they were needed.  The layout of the proposed 68-mobile home site is presented on Figure 3.  Gravel road material would be placed to form the roadbeds and pad sites.  The temporary emergency housing would consist of manufactured homes.  These structures would be placed on the proposed site at a density of approximately six homes per acre.  Electrical hookups and water and sewer service systems would also be developed on the entire 68-unit site before the first set of trailers was installed.  The area within the project site not covered with gravel or impermeable material would be seeded with grass.  These temporary residential structures would be removed within 18 months, at which time the Federal Government would clean up any debris left on the site.  Utilities (water, sewer and power) will remain in place for future use.  A natural swale runs through the site on a northwest to southeast axis.  This swale would be deepened 2 feet to provide drainage for the site.  Included within the project area are two Type 1 (seasonally flooded) wetland areas (Figure 3).  This larger wetland acreage would be left in its existing state, other than being seeded to provide a vegetative cover.  The second wetland area (B) is 0.25 acre area within the swale.  This area would be deepened along with the rest of the drainage site.  
+
+An existing grass field/parking area on the county fairgrounds (Figure 2) would be used for the mobilization area for accepting delivery, assembling, and testing the homes.  The homes would be delivered to the mobilization site in groups of three to five.  There they would be tested and prepared for installation at the mobile home park.  The use of this county fairgrounds area would be limited to the installation period, which would end around October 1, 2002.  
+
+3.3 SITES CONSIDERED AND DISMISSED FROM FURTHER CONSIDERATION
+Additional sites that had general physical characteristics required for development of mobile home parks in or near Roseau were also considered (Figure 2).  Site 2 was located approximately 1 mile to the northwest of the selected site.  It is topographically similar to the selected site and also has been intensively farmed in the past.  It was not selected because a portion of the parcel is not located within the city limits of the affected community, which is a FEMA program requirement.
+
+Site 3 is located in the northeast corner of Roseau.  It is larger than the selected site (80 acres).  It also is a topographically flat piece of land that has been farmed in the recent past.  It was not selected because it is located within the 100-year floodplain.
+
+Site 4 is also located in the northeast corner of Roseau, just to the south of Site 3.  It is a 6-acre site that has been vacant for the past 10 years.  It was not selected because it did not have sufficient capacity for the number of mobile homes that would be needed for the community, and one of the planning criteria was to have all of the provided temporary residences in one location.   
+4.0 DESCRIPTION OF EXISTING RESOURCES AND PROJECT IMPACTS
+
+The site is an existing agricultural field located adjacent to the city limits of Roseau.  The site is surrounded by agricultural land and residential and commercial development.  Existing residential and commercial development is located to the north of the site.  The City proposes to extend residential development into the site from the north.  A residential development is currently being developed to the east and south of the site.  This residential development is surrounded by a golf course.  
+
+4.1 CLIMATE/GEOLOGY/SOILS 
+Roseau County has a subhumid to humid continental climate with moderately warm summers, cold winters, and rapid changes in daily weather patterns.  On average, the mean monthly temperatures range from 5 degrees to 68 degrees Fahrenheit.  About three-quarters of the area’s approximately 20 inches of annual precipitation falls during April to September, with two-thirds occurring during May, June and July.  The driest months are November through February.  Average snowfall is approximately 40 inches per year. 
+
+The proposed project area lies within the large, flat geographical area formed by glacial Lake Agassiz.  This lake covered northeastern Minnesota, eastern North Dakota, and a large area of southern Manitoba.  Since the recession of Lake Agassiz, streams such as the Roseau River have established meandering courses over the relatively flat till and lake plain.  The soils found in the general project area consist mainly of clayey glacial drift, alluvium, and lacustrine soils along with organic soils that derived in marsh/bog areas.  The immediate project area consists of Ausburg loam, Enstrom loamy fine sand, and Croke very fine sandy loam with Mustinka clay loam in the swale area.  The existing soils would not preclude the use of the proposed site.
+
+Information on landform, bedrock geology, soils, climate, hydrology, pre-settlement vegetation, present vegetation, land use, natural disturbance, and conservation concerns is available at: http://www.dnr.state.mn.us/ecological_services/ecs/laurentian/ecs_c.html, a web site maintained by the Minnesota Department of Natural Resources.
+
+4.2 WATER RESOURCES
+
+4.2.1 SURFACE WATER
+The Roseau River is located approximately three-quarters of a mile to the east of the proposed project area.  A series of road ditches connects the site to the river.  The existing swale probably historically had a more direct connection to the river, but this was obliterated by the development of the residential area and golf course that currently exists between the proposed site and the river.
+
+Preparation of the proposed temporary emergency housing sites would require the removal of much of the existing wheat crop on the site.  This vegetation would normally be removed in the early fall when the crop is harvested, so the proposed action would cause little overall change in site conditions.  The contribution of sediment into the drainage ditches would be minimal.  However, in order to minimize any erosion and sedimentation that could occur, a Stormwater Pollution Prevention Plan (SWPPP) would be prepared for the site, and the measures indicated in the plan would be implemented for the proposed action.  The SWPPP would contain specific construction measures (e.g., silt fences, drainage swales, hay bales, etc.) to reduce or eliminate runoff impacts during proposed construction activities and reduce the potential for soil erosion after construction.  Best management practices as provided in the Minnesota Pollution Control Agency Protecting Water Quality in Urban Areas: A Manual will be used.  The construction contractor would also be required to implement protective measures to prevent spillage of chemicals, fuels, oils, greases, bituminous materials, waste washings, herbicides, insecticides, or any other materials associated with construction activities, and keep these materials from entering drainages.  With implementation of measures identified in the SWPPP and the incorporation of best management practices (BMP) to reduce spillage, the proposed project would have minimal adverse impacts on surface waters.  
+
+The no-action alternative would not result in any increased erosion from the existing sites because no construction activities would occur.
+.
+4.2.2 GROUNDWATER
+The geologic formations underlying the City of Roseau consist of bedrock overlain with glacial till and glacial lake silt.  Neither of these glacially derived formations yields much water.  Because of the low relief and relative impermeability of the underlying sediments, the water table in the area is located within 1 to 6 feet of the ground level.  Community water supply is obtained from the deeper aquifers and is not directly dependent on the shallow subsurface water formations.
+
+Construction of water, sewer, or lift station lines or any ground surface preparations would not exceed 8 feet.  Subsurface geology and implementation of the management plans mentioned in the preceding section would minimize potential adverse impacts to groundwater in the proposed project area.  
+
+The no action alternative would not result in any potential impacts to groundwater because no construction activities would take place.
+
+4.2.3 WATERS OF THE UNITED STATES
+The U.S. Army Corps of Engineers has reviewed the locations of the proposed sites and has identified two Type 1 wetlands in the proposed project area (Figure 3).  The area of the two wetlands is approximately 1.5 acres (A) and 0.25 acre (B).  For at least the past 15 years, these wetlands and the surrounding area were plowed and cropped.  Because of this usage, the wetlands are in a degraded state.  The standing water this spring/summer killed the agricultural crop, and both areas currently have bare earth conditions.  The only project related impact to wetland A would be seeding the area to minimize erosion. 
+
+The smaller wetland (B) will be excavated along with the other portions of the swale to form a collection area for runoff.  The entire swale area will also be seeded with a wetland seed mix.  The proposed action would change the conditions of the wetland and the surrounding area.  The current condition is that of a converted wetland used to provide an annual agricultural crop.  With the deepening and seeding of the swale, much of the excavated area would likely develop as a wetland.  This would be an enhancement of the existing wetland conditions.  The avoidance and enhancement measures incorporated into the proposed project are in compliance with Executive Order (E.O.) 11990, Protection of Wetlands.
+
+The no action alternative would not entail compliance with Section 404 of the Clean Water Act and E.O. 11990 since no construction activities would take place.
+
+4.2.4 FLOODPLAINS
+Although the swale area of the proposed project site is located within the 100-year floodplain, the individual home sites and access roads are located above this elevation.  The proposed staging area is located within the 100-year floodplain.  On the basis of historic precipitation patterns, however, it is very unlikely that a flood event would occur during the August-October time frame the staging area would be used.  If there was an event, the small number of units that would be present at any one time could rapidly be moved to higher ground.  On the basis of these conditions, compliance with E.O. 11988, Floodplain Management Guidelines, would be achieved
+
+The no action alternative would not affect any established 100-year flood hazard area because no construction would take place.
+
+4.3 AIR QUALITY   
+Roseau County is considered an attainment area for all criteria pollutants.  Construction activity associated with the proposed project would produce pollutant emissions.  Heavy equipment would produce small amounts of hydrocarbons and exhaust fumes.  It would be expected that some air pollutants would increase in the project areas; however, the concentrations of these pollutants would not cause the region to reach non-attainment status.  The construction contractor would be required to maintain the vehicles on the sites in good working order to minimize pollutant emissions.  Fugitive dust would also result from proposed construction activities.  The contractor would be required to address dust suppression activities.  Adverse impacts to air quality resulting from the proposed activity would be short-term and temporary during construction only. 
+
+The no action alternative would result in some longer commutes by the displaced people than under the proposed action and therefore a very small amount of additional car emissions.  However, since the no action alternative would not involve construction activities and emissions, it would result in fewer emissions overall and less impact to air quality.
+
+4.4 NOISE 
+Noise is defined as “unwanted sound” and, in the context of protecting public health and welfare, implies potential effects on people and, in general, the environment.  Noise is one of the major concerns associated with construction-related activities.  Existing noise levels in the vicinity of the proposed project site are relatively low, originating from residential construction in the adjoining areas and vehicular traffic along the residential streets.
+
+Residents near the proposed site would experience an increase in noise levels during the proposed construction activities. The construction noise would be greater than the noise from traffic at these sites.  The work would be done relatively quickly; thus, the disruption would be temporary.  In addition, there are no sensitive receptors located near either the staging or temporary home sites.  
+
+Once the temporary emergency housing was established, additional noise would be generated from the vehicles and activities of people inhabiting the completed units.  While noise at the selected site would increase, noise levels would not be expected to result in any significant longterm adverse impacts to residents in the adjacent areas, because the sites would eventually be vacated.  The potential future development of the site will be for residential development.  
+
+The no action alternative would not result in any increase in noise because no construction activities would take place.
+
+4.5  NATURAL RESOURCES
+
+4.5.1 VEGETATION
+Land use in the project area is predominantly residential or agricultural.  The lands to the west and south are seeded in wheat and canola, respectively.  The areas to the east and north are residential housing and a golf course.  The proposed project area is currently seeded in wheat.  Site preparation for construction of temporary emergency housing would require clearing and grading.  This would result in the loss of the existing wheat cover.  Upon completion of the construction activities, the exposed earthen areas would be reseeded primarily with residential grasses.  The overall impact would be to exchange one non-native grassy species with another. 
+
+The no action alternative would not result in any potential impacts to vegetation because no construction activities would take place.
+
+4.5.2 FISH AND WILDLIFE
+Wildlife in the area is typical of an agricultural landscape.  Common wildlife species include white-tailed deer, mink, muskrat, red fox, coyote, striped skunk, meadow vole, meadow jumping mouse and masked shrew.  Migrating waterfowl such as mallard, blue-winged teal, gulls and a variety of shorebirds traverse the area.  Other common birds include the yellow warbler, veery, Baltimore oriole, warbling vireo, red-winged blackbird, bobolink, and swallows.  Overall, habitat quality in the immediate project area would be considered low because of agricultural and residential disturbance, which severely limits the extent and diversity of wildlife habitat.  The proposed action would have minimal impact on the existing faunal conditions.
+
+The no action alternative would not result in any potential impacts to fish and wildlife because no construction activities would take place.
+
+4.5.3 STATE AND FEDERALLY LISTED THREATENED, ENDANGERED OR PROPOSED SPECIES AND CRITICAL HABITATS
+Three Federally listed threatened and endangered species are listed for Roseau County: the gray wolf (Canis lupus) – threatened; the Canada lynx (Lynx canadensis) – threatened; and the bald eagle (Haliaeetus leucocephalus) – threatened.  After evaluating the quality of habitat and records of these species in the area, a determination was made that the project would have no impact on these species or their habitats.  The U.S. Fish and Wildlife Service concurred with this determination (Attachment 1).  The Minnesota Department of Natural Resources was contacted in regard to the presence of protected species.  There are no State protected species in the immediate project area (Attachment 2).     
+
+The no action alternative would have no effect on Federal or State endangered, threatened, or proposed threatened species.
+
+4.6   CULTURAL RESOURCES    
+Although no cultural resource sites have been identified within the project area, numerous cultural resource sites indicating continual human occupation for approximately 10,000 years have been recorded throughout the area.  Archaeological sites within the region exist on a variety of landforms, including uplands, terraces, and glacial beach ridges, and consist of such sites as precontact lithic scatters, burial mound sites, and historic Euro-American structures and roads.  
+
+Although no cultural resource surveys are known to have been conducted within the project area, several cultural resource investigations have been conducted near the project area, primarily associated with road construction.  Several cultural resource sites are located within 1 mile of the temporary housing placement site.  The nearest cultural resource site, 21ROak, is located immediately southwest of the proposed site.  Little information is available on 21ROak, evidently consisting of a precontact cemetery located somewhere in the eastern half of Section 26.  Other precontact burials in the area include 21RO8, a burial mound (now destroyed) located on the west side of the Roseau River, and 21RO29, located east of the river and consisting of a “skull and bones” unearthed during construction of a water line in 1969.  North of the project area, and within the city limits, is the Roseau County Courthouse, listed on the National Register of Historic Places.  A historic road running between Roseau and Thief River Falls was recorded to have passed on or near the proposed project site.  Two historic cemeteries are located adjacent to the site.
+
+A Phase I cultural resource survey was conducted in July 2002 by a Corps archaeologist.  No cultural resource sites were observed within the project area.  The relatively level agricultural field does not harbor a glacial beach ridge or buried soils.  No evidence of the historic road was extant in the field.  No surface evidence suggests that graves may be located outside the cemetery boundaries or within the project limits.  No known historic properties will be directly or indirectly affected by this project.  Coordination with the Minnesota State Historic Preservation Office (SHPO) has been initiated.  
+
+The no action alternative would have no effect on cultural properties.
+
+4.7 SOCIOECONOMICS/AESTHETICS    
+The proposed project area is located in the city of Roseau, Roseau County, in northwestern Minnesota.  Roseau is the county seat for Roseau County and serves as a strong retail trade center for the region.  Roseau is the largest city within Roseau County, with a market area of over 60 miles.  It is approximately 360 miles northwest of Minneapolis/St. Paul, Minnesota, and 220 miles west/northwest of Duluth, Minnesota.  It is located just 10 miles from the Canadian border and 21 miles west of Lake of the Woods at the junction of State Highways 11, 89, and 310.  The city comprises an area of approximately 170 acres. 
+
+The city of Roseau, occupying what once was the bottom of glacial Lake Agassiz, has a relatively flat topography, sloping gently to the north.  The city has a topographic relief of approximately 20 feet, with elevations varying from 1055 to 1035 feet.
+
+ The 2000 population of Roseau is 2,756, an increase of 15.0 percent from 1990.  Roseau County's 2000 population totaled 16,338, an increase of 8.7 percent from 1990.  Roseau County's 2000 population is equivalent to only 9.8 persons per square mile, compared to the statewide and nationwide densities of 61.8 and 79.6 persons per square mile, respectively.
+
+POPULATION
+Area1960 Census1970 Census1980 Census1990 Census2000 CensusCity
+County2,146
+     12,1542,552
+     11,5692,272
+     12,5802,396
+     15,0262,756
+     16,338
+The city of Roseau’s population has a median age of 37.9 years, with 26.3 percent of the population under the age of 18 and 20.7 percent of the population aged 62 years and over.
+
+Among persons 25 years and over, 81.2 percent of Roseau’s population has achieved high school or higher educational attainment compared to 82.5 percent for Roseau County, and 87.9 percent for the State of Minnesota.  Approximately 22.8 percent of the adults 25 years and over possess bachelor’s degrees or higher, compared with 14.9 percent for Roseau County, and 27.4 percent for the State of Minnesota. 
+
+According to 2000 census figures, there are a total of 1,229 housing units in Roseau.  There were 821 owner-occupied (66.8 percent), 336 renter-occupied (27.3 percent), and 72 (5.9 percent) vacant housing units.  The median value of owner-occupied housing units is $78,000 and the median monthly rent for renter-occupied housing units is $477. 
+
+Roseau County’s labor force totaled 8,918 in May 2002, with an unemployment rate of 3.3 percent, compared to 3.7 percent (unadjusted) for the State of Minnesota and 5.5 percent (unadjusted) for the United States. 
+
+Employment in Roseau County is dominated by manufacturing, which accounts for 44.3 percent of total employment, compared to 16.3 percent Statewide.  Major manufacturers include Polaris Industries (city of Roseau) and Marvin Windows (city of Warroad).  The presence of these companies accounts for the county’s population growth in recent years.  Other significant industries in Roseau County are educational, health, and social services (16.8 percent of employed persons) and retail trade (9.2 percent).  Roseau is also home to a strong agricultural community.  The chief agricultural enterprise in the region is the production of grass seed. Roseau County provides 80 percent of the Timothy and 15 percent of the Kentucky Bluegrass marketed in the United States.  The diversified land with its ample rainfall and good soil also yields abundant wheat, oats, barley, canola, sunflower, and flax crops.
+
+According to information from the U.S. Census Bureau, the 1997 median household money income for Roseau County was $36,832, compared to $41,591 for the State of Minnesota and $37,005 for the United States.  In Roseau County, 7.7 percent of the population is below the poverty level, compared to 8.9 percent for the State of Minnesota and 13.3 percent for the United States.
+
+The proposed project would result in minimal t social or economic impacts.  The project would have a positive impact on public health and safety, community cohesion, and employment in the area.  People displaced by the flood event will be able to stay in the community and keep their jobs while their homes are being made habitable.  The site being considered for development of temporary emergency housing is near existing residential and commercial areas.  The temporary residents would therefore be close to stores, post offices, schools and other services necessary for urban living. 
+
+During site development and the staging and placement of the mobile homes, short-term negative impacts would likely occur in the following areas: an increase in noise levels and disruption of normal community traffic patterns.  These effects would be attenuated through the appropriate placement of construction and safety signage.  These effects would be short-lived and terminate when site development and mobile home placement was complete.
+
+The no action alternative would entail no construction or preparation of sites for temporary emergency housing of flood victims.  Because of the cold weather that occurs in the winter, up to 60 of the 152 family units presently housed in uninsulated camper trailers would not be able to remain in their temporary accommodations.  Residents that could not return to their homes would have to find other accommodations such as with friends or family members or in hotels or apartments available in Roseau or nearby areas.  Initial surveys have found that there are very few undamaged, available rental units.  Persons unable to remain in Roseau would face longer travel times and social disruption as a result of relocation. 
+
+4.8 ENVIRONMENTAL JUSTICE
+Executive Order 12898, Environmental Justice, provides that each Federal agency identify and address, as appropriate, disproportionately high and adverse human health or environmental effects of its programs, policies, and activities on minority populations and low-income populations in the United States. 
+
+The proposed action is not expected to have disproportionately negative impacts on minority or low-income populations.  The level of commitment is proportional to the level of assistance requested by the State of Minnesota and the level of need of the affected community, regardless of socioeconomic status.
+
+4.9 SAFETY AND SECURITY 
+Safety and security issues associated with the proposed action that were considered included the health and safety of the individuals working on site development activities, placing utilities, and  relocating housing units, and the well-being of the people living at or adjacent to the manufactured home sites.  The Corps construction engineer would identify and rectify potential safety hazards at the selected site staging and housing sites.  Safety fencing would be included if it was determined to be necessary as part of the site design.  Safety during construction is a concern for the personnel associated with the proposed action.  All construction activities would be conducted in a safe manner.  First aid and other medical services would be readily available throughout the duration of this action.  
+
+The safety and security of the residents of the manufactured homes is also of utmost concern.  Fire and police protection would be provided by the City of Roseau.  The school district would provide busing for the areas students.  The location of pickup points would be determined in the same manner as in the other residential areas in the City of Roseau.  Adverse impacts resulting from the safety and security issues associated with this project would be minimal.  
+
+4.10 HAZARDOUS MATERIALS AND WASTE
+Corps of Engineers personnel examined the proposed sites for the presence of hazardous materials and waste.  No evidence was observed that would indicate surface or subsurface contamination.  Past usage has been limited to production of agricultural product.  Hazardous materials such as oil, fuel or paint may be used on the sites during construction activities. Any hazardous materials and waste on the site associated with construction activities would be stored in appropriate containers or facilities.  Fueling of construction equipment would normally occur off site, and all hazardous materials would be handled and disposed of in accordance with applicable local, State, and Federal regulations.  Proper implementation of these regulations would prevent the occurrence of significant adverse impacts resulting from hazardous materials and wastes.
+
+5.0 CUMULATIVE EFFECTS
+
+The project will ultimately provide the installation of utility and roadway infrastructure supporting future residential development of the site.  This residential development is not inconsistent with the City’s desire to provide residential development, especially outside flood hazard areas. The water and sewer service may allow for future development of adjoining areas. However, these areas are largely outside the City limits. Expansion to these areas would, by its nature, need to be consistent with the City’s growth management objectives.
+
+6.0 PUBLIC PARTICIPATION
+
+The public will be provided an opportunity to comment on the proposed action from August 2   to August 6, 2002.  A public notice identifying the action, location of the proposed site, participants, location of the draft EA and FONSI, and who to call to provide comments will be advertised in the Grand Forks Herald and posted at the Ram Community Center and Roseau County Courthouse.  The Environmental Assessment will be sent to the U.S. Environmental Protection Agency, U.S. Fish and Wildlife Service, Minnesota Chippewa Tribe - Red Lake Band, Bureau of Indian Affairs, Minnesota Department of Natural Resources and Minnesota State Historic Preservation Office.  Flyers will be distributed to owners of businesses and homes within the vicinity of the proposed activity.   
+
+7.0 AGENCIES CONSULTED
+
+U.S. Fish and Wildlife Service
+Minnesota Department of Natural Resources
+Minnesota State Historic Preservation Office
+Minnesota Pollution Control Agency
+Roseau County Engineer
+City of Roseau Engineer
+
+8.0 CONCLUSION
+
+The proposed project is to construct temporary emergency housing for people displaced by the Roseau River flood of 2002.  Construction activities associated with the proposed project would include land clearing, gravel road construction, placement of facilities to accommodate utilities, and placement of the manufactured housing units.  
+
+On the basis of the findings of this EA and coordination with the appropriate agencies, it is our initial determination that implementation of the proposed project and contingency plans as described in this EA would not have any significant adverse impacts to the human or natural environment.  All requirements of the National Environmental Policy Act will be satisfied after the review period for the Environmental Assessment and Finding of No Significant Impact. 
+
+
+LIST OF FIGURES
+
+1. Location Map
+2. Alternative Site Locations / Staging Area
+3. Project Map
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX A
+
+AGENCY CORRESPONDENCE
+
+
+_________________________________________________________________
+CONVERSATION RECORD           |Time: 0830 |Date: 29 July 2002  
+Type:  Visit| Conversation| X Telephone | X Incoming Outgoing
+Location:                                                 
+Name of Person Contacted: Bruce Lenning
+Organization: Minnesota Department of Natural Resources - Bemidji
+Telephone No.:  218-755-3635                              
+Subject: Roseau Temporary Housing – State Listed Endangered Species
+_________________________________________________________________
+Summary: Mr. Lenning called to respond to our request of potential presence of State listed threatened species in or near the proposed project area.  He informed that there were no species listed for the immediate project area.  One bird species was listed for an adjacent section in 1991.  Based on this information, Mr. Lenning concurred with our determination that the project would not impact any State listed species.
+
+
+
+
+
+==================================================================
+Action Required: None 
+
+_________________________________________________________________
+Name of Documenter: Richard J. Beatty
+
+Signature:    Signed                           |Date: 29 July 2002
+=================================================================
+Action Taken:
+
+_________________________________________________________________
+
+Signature:                               |Date:
+==================================================================
+
+
+From: Dan_Stinnett@fws.gov
+Sent: Friday, July 19, 2002 3:09 PM
+To: Beatty, Richard J MVP
+Cc: Laurie_Fairchild@fws.gov
+Subject: Re: Legal Description for Proposed Project Area in Roseau, MN
+
+
+Hi, Dick.  I have checked for Threatened and Endangered Species in Roseau County.  The Gray Wolf (with Critical Habitat), Canada lynx, and bald eagle are threatened species that may occur in Roseau County.  I have referenced the subject location for temporary housing and found there to be no records of Federal species in the project area; therefore, we agree with your determination that the project would have no effect on Federally listed species or their habitats.
+
+Dan Stinnett
+Field Supervisor
+Twin Cities Ecological Services Office
+
+
+                                                                                                                         
+                      "Beatty, Richard J MVP"                                                                            
+                      <richard.j.beatty@mvp02.usac        To:       "'dan_stinnett@fws.gov'" <dan_stinnett@fws.gov>      
+                      e.army.mil>                         cc:                                                            
+
+
+
+July 26, 2002
+
+
+Environmental and Economic Analysis Branch
+Planning, Programs and Project Management Division
+
+SUBJECT:  Roseau Temporary Housing Project, Roseau County, Minnesota
+
+
+
+Mr. Dennis Gimmestad
+State Historic Preservation Office
+Minnesota Historical Society
+345 Kellogg Boulevard West
+St. Paul, Minnesota 55102-1906
+
+Dear Mr. Gimmestad:
+
+	The St. Paul District, U.S. Army Corps of Engineers (Corps) is installing temporary housing for the Federal Emergency Management Agency in Roseau, Minnesota, for flood victims.  The temporary housing will consist of placing trailers and installing subsurface utilities (e.g., electric, sewer and water), constructing roads, and introducing other associated features within the trailer park.  The temporary housing placement site is located in Roseau, Roseau County, in the SW1/4, SW1/4 of Section 24, T162N, R40W (Figure 1).  
+
+	The temporary housing placement site is located in an agricultural field approximately one-half mile west of the Roseau River and on the southwest edge of the City of Roseau.  The field is situated on relatively level terrain that formed on a glacial lake plain (i.e., glacial Lake Agassiz).  A shallow swale runs roughly east-west through the east-central portion of the field, and a north-south running overhead power line crosses the western portion of the field.  The field is currently planted in wheat, although the precontact vegetation consisted of tall-grass prairie.  The field is bounded on the west and south by ditched roads, with housing developments on the north and east.  Immediately northeast of the field are the Hope and Sacred Heart cemeteries.  
+
+      No cultural resource surveys are known to have been conducted within the project area.  No cultural resource sites are recorded within the project area.  However, the Trygg map indicates that, by 1889, the north-south running Thief River Falls to Roseau Road traversed the western portion of the field.  Several cultural resource sites are located within 1 mile of the temporary housing placement site.  The nearest cultural resource site, 21ROak, is located immediately southwest of the placement site.  Little information is available on 21ROak, evidently consisting of a precontact cemetery located somewhere in the eastern half of Section 26.  Other precontact burials in the area include 21RO8, a burial mound (now destroyed) located on the west side of the Roseau River, and 21RO29, located east of the river and consisting of a “skull and bones” unearthed during construction of a water line in 1969.  North of the project area, and within the city limits, is the Roseau County Courthouse, listed on the National Register of Historic Places.  
+
+      A Phase I survey of the project area was conducted by Bradley E. Perkl (Corps) on July 22, 2002.  Field methods included a pedestrian survey across the field in 10- to 15-meter transects.  Surface visibility ranged from 10 to 100 percent.  According to the Roseau County Soil Survey, none of the mapped soils over the field contain buried soil horizons, and no glacial beach ridges are located within the wheat field.  No evidence of the historic road was extant in the field.  Close attention was given to the two cemeteries northeast of the placement site.  No surface evidence suggests that graves may be located outside the cemetery boundaries or located within the project limits.  Aside from recent debris (e.g., lumber, fabric sandbags, tin cans) deposited across the field by floodwaters, no cultural materials were observed.
+
+      The Corps believes that no historic properties will be affected by this project.  We ask that you review the above
+	  and provide your comments as soon as possible.  If you have any questions, please contact Mr. Bradley Perkl, Corps
+	  archaeologist@651-290-5370.
+
+      Sincerely,
+
+
+
+
+      Joseph H. Mose (jomose AT abranch DOT com)
+      Acting Chief, Environmental and Economic
+       Analysis Branch
+
+Enclosure
+
+
+
+
+
+
+
+
+
+
+i
+
+
+
+
+
+
+
