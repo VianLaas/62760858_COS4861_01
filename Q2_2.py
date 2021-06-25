@@ -82,5 +82,8 @@ def main():
 	distanceCalculator = MinimumEditDistanceCalculator()
 	distanceCalculator.CalculateDistance(Target, Source)
 
+	# Wait for input to continue
+	input("\nPress <RETURN> to continue")
+
 if __name__ == "__main__":
 	main()

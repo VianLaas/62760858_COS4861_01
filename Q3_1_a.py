@@ -137,5 +137,8 @@ def main():
 	print('P(eggs | like green) = ' + str(ngram.P('eggs | like green')))
 	print('P(ham | like green) = ' + str(ngram.P('ham | like green')))
 
+	# Wait for input to continue
+	input("\nPress <RETURN> to continue")
+
 if __name__ == "__main__":
 	main()

@@ -57,5 +57,8 @@ def main():
 		sentence = input("You:\t")
 		sentence = sentence.upper()
 
+	# Wait for input to continue
+	input("\nPress <RETURN> to continue")
+
 if __name__ == "__main__":
 	main()
