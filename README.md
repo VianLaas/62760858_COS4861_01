@@ -1,8 +1,8 @@
+
+
 This repository contains all the programs in Assignment 1 for COS4861 - Natural Language Processing
 
-Use main.py to select a question and run the associated program.
-
-Alternatively, run one of the programs directly (but be sure to remove all comments below # ***** Moved to main.py *****
+Unzip all files and use main.py to select a question and run the associated program.
 
 Student Number: 62760858
 

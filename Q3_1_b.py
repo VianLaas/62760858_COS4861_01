@@ -25,42 +25,49 @@ class NGramStatistics(NGram):
 		for ngram in sorted(self._ngrams, key = self._ngrams.get, reverse = True)[:51]:
 			print("{: <40}| {: <5}".format(ngram[0] + ("" if len(ngram) == 1 else " " + ngram[1]), str(self._ngrams[ngram])))
 
-# ***** Moved to main.py *****
-# # We'll use the text files from Additional Resources
-# # on myUnisa as our corpora 
-# # (both have been truncated to exactly 1000 words)
-# with open('.\\test1000.txt') as f:
-# 	corpus1 = f.read()
-# with open('.\\training1000.txt') as f:
-# 	corpus2 = f.read()
+def main():
+	print("-------------------------------------------------------------")
+	print("This program compares N-Gram statistics for two small corpora")
+	print("-------------------------------------------------------------\n")
+	
+	# We'll use the text files from Additional Resources
+	# on myUnisa as our corpora 
+	# (both have been truncated to exactly 1000 words)
+	with open('.\\test1000.txt') as f:
+		corpus1 = f.read()
+	with open('.\\training1000.txt') as f:
+		corpus2 = f.read()
 
-# # Let's start with Unigrams first
-# print("================== UNIGRAMS ==================")
-# print()
+	# Let's start with Unigrams first
+	print("================== UNIGRAMS ==================")
+	print()
 
-# # Create our unigram objects
-# ngram1 = NGramStatistics(1, corpus1)
-# ngram2 = NGramStatistics(1, corpus2)
+	# Create our unigram objects
+	ngram1 = NGramStatistics(1, corpus1)
+	ngram2 = NGramStatistics(1, corpus2)
 
-# # Print the output
-# print("Corpus: test1000.txt")
-# ngram1.PrintTop50NGrams()
-# print()
-# print("Corpus: training1000.txt")
-# ngram2.PrintTop50NGrams()
+	# Print the output
+	print("Corpus: test1000.txt")
+	ngram1.PrintTop50NGrams()
+	print()
+	print("Corpus: training1000.txt")
+	ngram2.PrintTop50NGrams()
 
-# # Next, we handle Bigrams
-# print()
-# print("================== BIGRAMS ==================")
-# print()
+	# Next, we handle Bigrams
+	print()
+	print("================== BIGRAMS ==================")
+	print()
 
-# # Reassign our bigram objects using polymorphism
-# ngram1 = NGramStatistics(2, corpus1)
-# ngram2 = NGramStatistics(2, corpus2)
+	# Reassign our bigram objects using polymorphism
+	ngram1 = NGramStatistics(2, corpus1)
+	ngram2 = NGramStatistics(2, corpus2)
 
-# # Print the output
-# print("Corpus: test1000.txt")
-# ngram1.PrintTop50NGrams()
-# print()
-# print("Corpus: training1000.txt")
-# ngram2.PrintTop50NGrams()
+	# Print the output
+	print("Corpus: test1000.txt")
+	ngram1.PrintTop50NGrams()
+	print()
+	print("Corpus: training1000.txt")
+	ngram2.PrintTop50NGrams()
+
+if __name__ == "__main__":
+	main()

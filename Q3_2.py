@@ -38,39 +38,46 @@ class LaplaceNGram(NGram):
 		# (note that we return 0.0 if we attempt to perform 0 division)
 		return (0.0 if historyCount == 0 else fullCount / historyCount)
 
-# ***** Moved to main.py *****
-# corpus = '<s> I am Sam </s>\n<s> Sam I am </s>\n<s> I do not like green eggs and ham </s>'
+def main():
+	print("---------------------------------------------------------------")
+	print("This program performs Laplace Smoothing on the previous N-Grams")
+	print("---------------------------------------------------------------\n")
+	
+	corpus = '<s> I am Sam </s>\n<s> Sam I am </s>\n<s> I do not like green eggs and ham </s>'
 
-# print('Corpus:\n' + corpus + '\n')
+	print('Corpus:\n' + corpus + '\n')
 
-# # Create a bigram object
-# ngram = LaplaceNGram(2, corpus)
+	# Create a bigram object
+	ngram = LaplaceNGram(2, corpus)
 
-# print('Some test cases for bigrams (see p.89):')
-# print('P(I | <s>) = ' + str(ngram.P('</s> | I am')))
-# print('P(Sam | <s>) = ' + str(ngram.P('Sam | <s>')))
-# print('P(am | I) = ' + str(ngram.P('am | I')))
-# print('P(</s> | Sam) = ' + str(ngram.P('</s> | Sam')))
-# print('P(Sam | am) = ' + str(ngram.P('Sam | am')))
-# print('P(do | I) = ' + str(ngram.P('do | I')))
+	print('Some test cases for bigrams (see p.89):')
+	print('P(I | <s>) = ' + str(ngram.P('</s> | I am')))
+	print('P(Sam | <s>) = ' + str(ngram.P('Sam | <s>')))
+	print('P(am | I) = ' + str(ngram.P('am | I')))
+	print('P(</s> | Sam) = ' + str(ngram.P('</s> | Sam')))
+	print('P(Sam | am) = ' + str(ngram.P('Sam | am')))
+	print('P(do | I) = ' + str(ngram.P('do | I')))
 
-# print()
+	print()
 
-# # Create a unigram object
-# ngram = LaplaceNGram(1, corpus)
-# print('Some test cases for unigrams:')
-# print('P(I) = ' + str(ngram.P('I')))
-# print('P(am) = ' + str(ngram.P('am')))
-# print('P(Sam) = ' + str(ngram.P('Sam')))
-# print('P(the) = ' + str(ngram.P('the')))
-# print('P(ham) = ' + str(ngram.P('ham')))
+	# Create a unigram object
+	ngram = LaplaceNGram(1, corpus)
+	print('Some test cases for unigrams:')
+	print('P(I) = ' + str(ngram.P('I')))
+	print('P(am) = ' + str(ngram.P('am')))
+	print('P(Sam) = ' + str(ngram.P('Sam')))
+	print('P(the) = ' + str(ngram.P('the')))
+	print('P(ham) = ' + str(ngram.P('ham')))
 
-# print()
+	print()
 
-# # Create a trigram object
-# ngram = LaplaceNGram(3, corpus)
-# print('Some test cases for trigrams:')
-# print('P(Sam | I am) = ' + str(ngram.P('Sam | I am')))
-# print('P(am | Sam I) = ' + str(ngram.P('am | Sam I')))
-# print('P(eggs | like green) = ' + str(ngram.P('eggs | like green')))
-# print('P(ham | like green) = ' + str(ngram.P('ham | like green')))
+	# Create a trigram object
+	ngram = LaplaceNGram(3, corpus)
+	print('Some test cases for trigrams:')
+	print('P(Sam | I am) = ' + str(ngram.P('Sam | I am')))
+	print('P(am | Sam I) = ' + str(ngram.P('am | Sam I')))
+	print('P(eggs | like green) = ' + str(ngram.P('eggs | like green')))
+	print('P(ham | like green) = ' + str(ngram.P('ham | like green')))
+
+if __name__ == "__main__":
+	main()

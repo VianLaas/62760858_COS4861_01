@@ -69,13 +69,18 @@ class MinimumEditDistanceCalculator:
 				buffer += str(distance[row][col]) + "\t"
 			print(buffer)
 
-# ***** Moved to main.py *****		
-# # Handle basic I/O
-# print("### Levenshtein Distance Calculator ###")
-# Target = input("Please enter the Target string: ")
-# Source = input("Please enter the Source string: ")
-# print()
+def main():
+	print("---------------------------------------------------------------------")
+	print("This program calculates the Minimum Edit Distance between two strings")
+	print("---------------------------------------------------------------------\n")
+	# Handle basic I/O
+	Target = input("Please enter the Target string: ")
+	Source = input("Please enter the Source string: ")
+	print()
 
-# # Calculate and display the Minimum Edit Distance between Target and Source
-# MinimumEditDistanceCalculator = MinimumEditDistanceCalculator()
-# MinimumEditDistanceCalculator.CalculateDistance(Target, Source)
+	# Calculate and display the Minimum Edit Distance between Target and Source
+	distanceCalculator = MinimumEditDistanceCalculator()
+	distanceCalculator.CalculateDistance(Target, Source)
+
+if __name__ == "__main__":
+	main()
